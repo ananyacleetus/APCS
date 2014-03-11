@@ -2,6 +2,8 @@ import java.applet.Applet;
 import java.awt.*;
 import java.util.Stack;
 
+//Map and Stack used 
+
 public class Maaaaaaze extends Applet {
 	private int height;
 	private int width;
